@@ -23,8 +23,17 @@ BurgClub_BOT is an innovative chatbot designed to provide seamless support for B
 - **Web Scraping**: Data is scraped from the official Burger Club website to ensure accuracy and freshness in information delivery.
 - **Streamlit Frontend**: The frontend interface is generated using Streamlit, providing an intuitive and user-friendly interaction platform.
 
+## Demo
+
+Here are a couple of demos showcasing BurgClub_BOT in action:
+
+1. ![Demo 1](https://github.com/chiragHimself/BurgClub_BOT/blob/main/Demo/demoimg1.jpg)
+2. ![Demo 2](https://github.com/chiragHimself/BurgClub_BOT/blob/main/Demo/demoimg2.jpg)
+
 ## How to Interact
 
-Simply start chatting with BurgClub_BOT to explore our menu, learn about our company, discover our history, or find your nearest Burger Club outlet. Whether you're a loyal customer or a curious burger enthusiast, BurgClub_BOT is here to assist you with a smile!
+Simply start chatting with BurgClub_BOT to explore burger club's menu, learn about the company, discover the history, or find your nearest Burger Club outlet. Whether you're a loyal customer or a curious burger enthusiast, BurgClub_BOT is here to assist you with a smile!
 
 Feel free to ask anything and enjoy your burger journey with us! 🎉
+
+
